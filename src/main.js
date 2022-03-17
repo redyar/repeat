@@ -8,6 +8,7 @@ import CounterFn from './CounterFn';
 ReactDom.render(
 	<div className="some">
 		<h2>Hello, World!</h2>
+		<h2>Hello, World!222</h2>
 		<hr/>
 		<h3>Class max=3</h3>
 		<CounterClass max={3} />
